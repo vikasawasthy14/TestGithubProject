@@ -1,0 +1,10 @@
+ Volume in drive D is LENOVO
+ Volume Serial Number is 0483-DE3C
+
+ Directory of D:\Git Excersize\GitProject
+
+19-11-2019  22:23    <DIR>          .
+19-11-2019  22:23    <DIR>          ..
+19-11-2019  22:23                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  13,824,593,920 bytes free
